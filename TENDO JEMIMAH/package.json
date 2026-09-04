@@ -1,0 +1,15 @@
+{
+  "name": "tendo-jemimah",
+  "version": "1.0.0",
+  "description": "assesement",
+  "keywords": [
+    "assement"
+  ],
+  "license": "ISC",
+  "author": "tendo jemimah",
+  "type": "commonjs",
+  "main": "validations.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
